@@ -836,3 +836,13 @@
         order: 2;
     }
 }
+
+@media (max-width: 373px) {
+    .subscribe_right input {
+        margin-top: 32px;
+        width: 171px;
+        height: 47px;
+        border-top-left-radius: 23px;
+        border-bottom-left-radius: 23px;
+    }
+}
